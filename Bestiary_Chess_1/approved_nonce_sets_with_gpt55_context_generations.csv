@@ -1,0 +1,36 @@
+set,nonce_word,source,note
+Opaque-ish,mavika,User-provided fresh GPT list,"Smooth, name-like; comparatively low obvious English morphology."
+Opaque-ish,qelat,User-provided fresh GPT list,Compact Semitic-shaped form; relatively low semantic transparency.
+Opaque-ish,ulvani,User-provided fresh GPT list,"Soft, name-like; Finnish-ish texture without an obvious English hook."
+Opaque-ish,xirumba,User-provided fresh GPT list,Creature/place-sounding; textured but not obviously decomposable in English.
+Opaque-ish,paltuk,User-provided fresh GPT list,Tool/object-ish compact form; Turkic-sounding.
+Opaque-ish,ngalepo,User-provided fresh GPT list,Austronesian/Bantu-ish texture; creature/place-like.
+Opaque-ish,zhonnek,User-provided fresh GPT list,Sci-fi/proper-noun texture; low obvious dictionary pull.
+Opaque-ish,lemavoq,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Built to feel pronounceable but not strongly rooted; mild object/creature neutrality.
+Opaque-ish,sorvanu,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Soft three-syllable form; name-like without a clear morphemic hook.
+Opaque-ish,qidarel,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Compact but not too English; slight term/object feel.
+Opaque-ish,nuvrakel,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Slightly technical/proper-noun shaped; intended moderate opacity.
+Animal-hook,brindleth,User-provided fresh GPT list,Contains 'brindle'; likely animal/color cue.
+Animal-hook,chamélo,User-provided fresh GPT list,Close to chameleon; obvious animal-hook.
+Animal-hook,skeldar,User-provided fresh GPT list,Norse/fantasy creature or beast-name texture.
+Animal-hook,dravosh,User-provided fresh GPT list,Slavic/fantasy creature-villain texture.
+Animal-hook,furmendi,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Contains 'fur' and soft mammal rhythm; designed animal-biased.
+Animal-hook,talonvek,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Contains 'talon'; likely bird/reptile/predator cue.
+Animal-hook,mosselk,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Contains 'moss' + 'elk'; forest animal/ecology cue.
+Animal-hook,vulpira,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Echoes vulpine/vulpes; foxlike animal cue.
+Idea/neologism-hook,tsorim,User-provided fresh GPT list,Hebrew-plural-looking; term/category feel.
+Idea/neologism-hook,lakshun,User-provided fresh GPT list,South Asian/English resemblance; concept/name hook.
+Idea/neologism-hook,mirellek,User-provided fresh GPT list,French/name-like; aesthetic or school-of-thought feel.
+Idea/neologism-hook,borzani,User-provided fresh GPT list,Persian/Italian/name-like; plausible surname/place/concept.
+Idea/neologism-hook,framelet,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Diminutive of 'frame'; likely to invite conceptual definition.
+Idea/neologism-hook,qualvance,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Echoes quality/valence/advance; abstract-concept hook.
+Idea/neologism-hook,metavoid,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Overt meta- + void; strongly idea/philosophy hook.
+Idea/neologism-hook,synthory,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Echoes synthesis/theory; neologism/concept hook.
+Ethnolinguistically marked,tlapeco,User-provided fresh GPT list,Nahuatl/Mesoamerican place/object texture.
+Ethnolinguistically marked,evaruq,User-provided fresh GPT list,Inuit-like orthographic texture; marked and should be handled carefully.
+Ethnolinguistically marked,tavuni,User-provided fresh GPT list,Polynesian-ish place/name texture.
+Ethnolinguistically marked,noyaru,User-provided fresh GPT list,Japanese-ish segmentation risk; marked but usable with care.
+Ethnolinguistically marked,mbelako,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,"Bantu-ish phonotactic texture; marked, with nasal onset."
+Ethnolinguistically marked,qamirun,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Semitic/Arabic-ish texture; marked but avoids obvious charged roots.
+Ethnolinguistically marked,ayuneko,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,Japanese/Austronesian-ish texture; soft name/place feel.
+Ethnolinguistically marked,xochalen,GPT-5.5 Thinking — generated in conversational context with Bo Chesterton,"Mesoamerican/Nahuatl-ish texture; marked, likely place/ritual-object cue."

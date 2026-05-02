@@ -1,0 +1,316 @@
+word_set,word,status,ontology,condition,replicate,prompt
+opaque_ish,mavika,real,animal,real_animal,1,Describe a mavika. It is a real animal.
+opaque_ish,mavika,real,object,real_object,1,Describe a mavika. It is a real object.
+opaque_ish,mavika,real,idea,real_idea,1,Describe a mavika. It is a real idea.
+opaque_ish,mavika,imaginary,animal,imaginary_animal,1,Describe a mavika. It is an imaginary animal.
+opaque_ish,mavika,imaginary,object,imaginary_object,1,Describe a mavika. It is an imaginary object.
+opaque_ish,mavika,imaginary,idea,imaginary_idea,1,Describe a mavika. It is an imaginary idea.
+opaque_ish,mavika,type_of,animal,type_of_animal,1,Describe a mavika. It is a type of animal.
+opaque_ish,mavika,type_of,object,type_of_object,1,Describe a mavika. It is a type of object.
+opaque_ish,mavika,type_of,idea,type_of_idea,1,Describe a mavika. It is a type of idea.
+opaque_ish,qelat,real,animal,real_animal,1,Describe a qelat. It is a real animal.
+opaque_ish,qelat,real,object,real_object,1,Describe a qelat. It is a real object.
+opaque_ish,qelat,real,idea,real_idea,1,Describe a qelat. It is a real idea.
+opaque_ish,qelat,imaginary,animal,imaginary_animal,1,Describe a qelat. It is an imaginary animal.
+opaque_ish,qelat,imaginary,object,imaginary_object,1,Describe a qelat. It is an imaginary object.
+opaque_ish,qelat,imaginary,idea,imaginary_idea,1,Describe a qelat. It is an imaginary idea.
+opaque_ish,qelat,type_of,animal,type_of_animal,1,Describe a qelat. It is a type of animal.
+opaque_ish,qelat,type_of,object,type_of_object,1,Describe a qelat. It is a type of object.
+opaque_ish,qelat,type_of,idea,type_of_idea,1,Describe a qelat. It is a type of idea.
+opaque_ish,ulvani,real,animal,real_animal,1,Describe a ulvani. It is a real animal.
+opaque_ish,ulvani,real,object,real_object,1,Describe a ulvani. It is a real object.
+opaque_ish,ulvani,real,idea,real_idea,1,Describe a ulvani. It is a real idea.
+opaque_ish,ulvani,imaginary,animal,imaginary_animal,1,Describe a ulvani. It is an imaginary animal.
+opaque_ish,ulvani,imaginary,object,imaginary_object,1,Describe a ulvani. It is an imaginary object.
+opaque_ish,ulvani,imaginary,idea,imaginary_idea,1,Describe a ulvani. It is an imaginary idea.
+opaque_ish,ulvani,type_of,animal,type_of_animal,1,Describe a ulvani. It is a type of animal.
+opaque_ish,ulvani,type_of,object,type_of_object,1,Describe a ulvani. It is a type of object.
+opaque_ish,ulvani,type_of,idea,type_of_idea,1,Describe a ulvani. It is a type of idea.
+opaque_ish,xirumba,real,animal,real_animal,1,Describe a xirumba. It is a real animal.
+opaque_ish,xirumba,real,object,real_object,1,Describe a xirumba. It is a real object.
+opaque_ish,xirumba,real,idea,real_idea,1,Describe a xirumba. It is a real idea.
+opaque_ish,xirumba,imaginary,animal,imaginary_animal,1,Describe a xirumba. It is an imaginary animal.
+opaque_ish,xirumba,imaginary,object,imaginary_object,1,Describe a xirumba. It is an imaginary object.
+opaque_ish,xirumba,imaginary,idea,imaginary_idea,1,Describe a xirumba. It is an imaginary idea.
+opaque_ish,xirumba,type_of,animal,type_of_animal,1,Describe a xirumba. It is a type of animal.
+opaque_ish,xirumba,type_of,object,type_of_object,1,Describe a xirumba. It is a type of object.
+opaque_ish,xirumba,type_of,idea,type_of_idea,1,Describe a xirumba. It is a type of idea.
+opaque_ish,paltuk,real,animal,real_animal,1,Describe a paltuk. It is a real animal.
+opaque_ish,paltuk,real,object,real_object,1,Describe a paltuk. It is a real object.
+opaque_ish,paltuk,real,idea,real_idea,1,Describe a paltuk. It is a real idea.
+opaque_ish,paltuk,imaginary,animal,imaginary_animal,1,Describe a paltuk. It is an imaginary animal.
+opaque_ish,paltuk,imaginary,object,imaginary_object,1,Describe a paltuk. It is an imaginary object.
+opaque_ish,paltuk,imaginary,idea,imaginary_idea,1,Describe a paltuk. It is an imaginary idea.
+opaque_ish,paltuk,type_of,animal,type_of_animal,1,Describe a paltuk. It is a type of animal.
+opaque_ish,paltuk,type_of,object,type_of_object,1,Describe a paltuk. It is a type of object.
+opaque_ish,paltuk,type_of,idea,type_of_idea,1,Describe a paltuk. It is a type of idea.
+opaque_ish,ngalepo,real,animal,real_animal,1,Describe a ngalepo. It is a real animal.
+opaque_ish,ngalepo,real,object,real_object,1,Describe a ngalepo. It is a real object.
+opaque_ish,ngalepo,real,idea,real_idea,1,Describe a ngalepo. It is a real idea.
+opaque_ish,ngalepo,imaginary,animal,imaginary_animal,1,Describe a ngalepo. It is an imaginary animal.
+opaque_ish,ngalepo,imaginary,object,imaginary_object,1,Describe a ngalepo. It is an imaginary object.
+opaque_ish,ngalepo,imaginary,idea,imaginary_idea,1,Describe a ngalepo. It is an imaginary idea.
+opaque_ish,ngalepo,type_of,animal,type_of_animal,1,Describe a ngalepo. It is a type of animal.
+opaque_ish,ngalepo,type_of,object,type_of_object,1,Describe a ngalepo. It is a type of object.
+opaque_ish,ngalepo,type_of,idea,type_of_idea,1,Describe a ngalepo. It is a type of idea.
+opaque_ish,zhonnek,real,animal,real_animal,1,Describe a zhonnek. It is a real animal.
+opaque_ish,zhonnek,real,object,real_object,1,Describe a zhonnek. It is a real object.
+opaque_ish,zhonnek,real,idea,real_idea,1,Describe a zhonnek. It is a real idea.
+opaque_ish,zhonnek,imaginary,animal,imaginary_animal,1,Describe a zhonnek. It is an imaginary animal.
+opaque_ish,zhonnek,imaginary,object,imaginary_object,1,Describe a zhonnek. It is an imaginary object.
+opaque_ish,zhonnek,imaginary,idea,imaginary_idea,1,Describe a zhonnek. It is an imaginary idea.
+opaque_ish,zhonnek,type_of,animal,type_of_animal,1,Describe a zhonnek. It is a type of animal.
+opaque_ish,zhonnek,type_of,object,type_of_object,1,Describe a zhonnek. It is a type of object.
+opaque_ish,zhonnek,type_of,idea,type_of_idea,1,Describe a zhonnek. It is a type of idea.
+opaque_ish,lemavoq,real,animal,real_animal,1,Describe a lemavoq. It is a real animal.
+opaque_ish,lemavoq,real,object,real_object,1,Describe a lemavoq. It is a real object.
+opaque_ish,lemavoq,real,idea,real_idea,1,Describe a lemavoq. It is a real idea.
+opaque_ish,lemavoq,imaginary,animal,imaginary_animal,1,Describe a lemavoq. It is an imaginary animal.
+opaque_ish,lemavoq,imaginary,object,imaginary_object,1,Describe a lemavoq. It is an imaginary object.
+opaque_ish,lemavoq,imaginary,idea,imaginary_idea,1,Describe a lemavoq. It is an imaginary idea.
+opaque_ish,lemavoq,type_of,animal,type_of_animal,1,Describe a lemavoq. It is a type of animal.
+opaque_ish,lemavoq,type_of,object,type_of_object,1,Describe a lemavoq. It is a type of object.
+opaque_ish,lemavoq,type_of,idea,type_of_idea,1,Describe a lemavoq. It is a type of idea.
+opaque_ish,sorvanu,real,animal,real_animal,1,Describe a sorvanu. It is a real animal.
+opaque_ish,sorvanu,real,object,real_object,1,Describe a sorvanu. It is a real object.
+opaque_ish,sorvanu,real,idea,real_idea,1,Describe a sorvanu. It is a real idea.
+opaque_ish,sorvanu,imaginary,animal,imaginary_animal,1,Describe a sorvanu. It is an imaginary animal.
+opaque_ish,sorvanu,imaginary,object,imaginary_object,1,Describe a sorvanu. It is an imaginary object.
+opaque_ish,sorvanu,imaginary,idea,imaginary_idea,1,Describe a sorvanu. It is an imaginary idea.
+opaque_ish,sorvanu,type_of,animal,type_of_animal,1,Describe a sorvanu. It is a type of animal.
+opaque_ish,sorvanu,type_of,object,type_of_object,1,Describe a sorvanu. It is a type of object.
+opaque_ish,sorvanu,type_of,idea,type_of_idea,1,Describe a sorvanu. It is a type of idea.
+opaque_ish,qidarel,real,animal,real_animal,1,Describe a qidarel. It is a real animal.
+opaque_ish,qidarel,real,object,real_object,1,Describe a qidarel. It is a real object.
+opaque_ish,qidarel,real,idea,real_idea,1,Describe a qidarel. It is a real idea.
+opaque_ish,qidarel,imaginary,animal,imaginary_animal,1,Describe a qidarel. It is an imaginary animal.
+opaque_ish,qidarel,imaginary,object,imaginary_object,1,Describe a qidarel. It is an imaginary object.
+opaque_ish,qidarel,imaginary,idea,imaginary_idea,1,Describe a qidarel. It is an imaginary idea.
+opaque_ish,qidarel,type_of,animal,type_of_animal,1,Describe a qidarel. It is a type of animal.
+opaque_ish,qidarel,type_of,object,type_of_object,1,Describe a qidarel. It is a type of object.
+opaque_ish,qidarel,type_of,idea,type_of_idea,1,Describe a qidarel. It is a type of idea.
+opaque_ish,nuvrakel,real,animal,real_animal,1,Describe a nuvrakel. It is a real animal.
+opaque_ish,nuvrakel,real,object,real_object,1,Describe a nuvrakel. It is a real object.
+opaque_ish,nuvrakel,real,idea,real_idea,1,Describe a nuvrakel. It is a real idea.
+opaque_ish,nuvrakel,imaginary,animal,imaginary_animal,1,Describe a nuvrakel. It is an imaginary animal.
+opaque_ish,nuvrakel,imaginary,object,imaginary_object,1,Describe a nuvrakel. It is an imaginary object.
+opaque_ish,nuvrakel,imaginary,idea,imaginary_idea,1,Describe a nuvrakel. It is an imaginary idea.
+opaque_ish,nuvrakel,type_of,animal,type_of_animal,1,Describe a nuvrakel. It is a type of animal.
+opaque_ish,nuvrakel,type_of,object,type_of_object,1,Describe a nuvrakel. It is a type of object.
+opaque_ish,nuvrakel,type_of,idea,type_of_idea,1,Describe a nuvrakel. It is a type of idea.
+animal_hook,brindleth,real,animal,real_animal,1,Describe a brindleth. It is a real animal.
+animal_hook,brindleth,real,object,real_object,1,Describe a brindleth. It is a real object.
+animal_hook,brindleth,real,idea,real_idea,1,Describe a brindleth. It is a real idea.
+animal_hook,brindleth,imaginary,animal,imaginary_animal,1,Describe a brindleth. It is an imaginary animal.
+animal_hook,brindleth,imaginary,object,imaginary_object,1,Describe a brindleth. It is an imaginary object.
+animal_hook,brindleth,imaginary,idea,imaginary_idea,1,Describe a brindleth. It is an imaginary idea.
+animal_hook,brindleth,type_of,animal,type_of_animal,1,Describe a brindleth. It is a type of animal.
+animal_hook,brindleth,type_of,object,type_of_object,1,Describe a brindleth. It is a type of object.
+animal_hook,brindleth,type_of,idea,type_of_idea,1,Describe a brindleth. It is a type of idea.
+animal_hook,chamélo,real,animal,real_animal,1,Describe a chamélo. It is a real animal.
+animal_hook,chamélo,real,object,real_object,1,Describe a chamélo. It is a real object.
+animal_hook,chamélo,real,idea,real_idea,1,Describe a chamélo. It is a real idea.
+animal_hook,chamélo,imaginary,animal,imaginary_animal,1,Describe a chamélo. It is an imaginary animal.
+animal_hook,chamélo,imaginary,object,imaginary_object,1,Describe a chamélo. It is an imaginary object.
+animal_hook,chamélo,imaginary,idea,imaginary_idea,1,Describe a chamélo. It is an imaginary idea.
+animal_hook,chamélo,type_of,animal,type_of_animal,1,Describe a chamélo. It is a type of animal.
+animal_hook,chamélo,type_of,object,type_of_object,1,Describe a chamélo. It is a type of object.
+animal_hook,chamélo,type_of,idea,type_of_idea,1,Describe a chamélo. It is a type of idea.
+animal_hook,skeldar,real,animal,real_animal,1,Describe a skeldar. It is a real animal.
+animal_hook,skeldar,real,object,real_object,1,Describe a skeldar. It is a real object.
+animal_hook,skeldar,real,idea,real_idea,1,Describe a skeldar. It is a real idea.
+animal_hook,skeldar,imaginary,animal,imaginary_animal,1,Describe a skeldar. It is an imaginary animal.
+animal_hook,skeldar,imaginary,object,imaginary_object,1,Describe a skeldar. It is an imaginary object.
+animal_hook,skeldar,imaginary,idea,imaginary_idea,1,Describe a skeldar. It is an imaginary idea.
+animal_hook,skeldar,type_of,animal,type_of_animal,1,Describe a skeldar. It is a type of animal.
+animal_hook,skeldar,type_of,object,type_of_object,1,Describe a skeldar. It is a type of object.
+animal_hook,skeldar,type_of,idea,type_of_idea,1,Describe a skeldar. It is a type of idea.
+animal_hook,dravosh,real,animal,real_animal,1,Describe a dravosh. It is a real animal.
+animal_hook,dravosh,real,object,real_object,1,Describe a dravosh. It is a real object.
+animal_hook,dravosh,real,idea,real_idea,1,Describe a dravosh. It is a real idea.
+animal_hook,dravosh,imaginary,animal,imaginary_animal,1,Describe a dravosh. It is an imaginary animal.
+animal_hook,dravosh,imaginary,object,imaginary_object,1,Describe a dravosh. It is an imaginary object.
+animal_hook,dravosh,imaginary,idea,imaginary_idea,1,Describe a dravosh. It is an imaginary idea.
+animal_hook,dravosh,type_of,animal,type_of_animal,1,Describe a dravosh. It is a type of animal.
+animal_hook,dravosh,type_of,object,type_of_object,1,Describe a dravosh. It is a type of object.
+animal_hook,dravosh,type_of,idea,type_of_idea,1,Describe a dravosh. It is a type of idea.
+animal_hook,furmendi,real,animal,real_animal,1,Describe a furmendi. It is a real animal.
+animal_hook,furmendi,real,object,real_object,1,Describe a furmendi. It is a real object.
+animal_hook,furmendi,real,idea,real_idea,1,Describe a furmendi. It is a real idea.
+animal_hook,furmendi,imaginary,animal,imaginary_animal,1,Describe a furmendi. It is an imaginary animal.
+animal_hook,furmendi,imaginary,object,imaginary_object,1,Describe a furmendi. It is an imaginary object.
+animal_hook,furmendi,imaginary,idea,imaginary_idea,1,Describe a furmendi. It is an imaginary idea.
+animal_hook,furmendi,type_of,animal,type_of_animal,1,Describe a furmendi. It is a type of animal.
+animal_hook,furmendi,type_of,object,type_of_object,1,Describe a furmendi. It is a type of object.
+animal_hook,furmendi,type_of,idea,type_of_idea,1,Describe a furmendi. It is a type of idea.
+animal_hook,talonvek,real,animal,real_animal,1,Describe a talonvek. It is a real animal.
+animal_hook,talonvek,real,object,real_object,1,Describe a talonvek. It is a real object.
+animal_hook,talonvek,real,idea,real_idea,1,Describe a talonvek. It is a real idea.
+animal_hook,talonvek,imaginary,animal,imaginary_animal,1,Describe a talonvek. It is an imaginary animal.
+animal_hook,talonvek,imaginary,object,imaginary_object,1,Describe a talonvek. It is an imaginary object.
+animal_hook,talonvek,imaginary,idea,imaginary_idea,1,Describe a talonvek. It is an imaginary idea.
+animal_hook,talonvek,type_of,animal,type_of_animal,1,Describe a talonvek. It is a type of animal.
+animal_hook,talonvek,type_of,object,type_of_object,1,Describe a talonvek. It is a type of object.
+animal_hook,talonvek,type_of,idea,type_of_idea,1,Describe a talonvek. It is a type of idea.
+animal_hook,mosselk,real,animal,real_animal,1,Describe a mosselk. It is a real animal.
+animal_hook,mosselk,real,object,real_object,1,Describe a mosselk. It is a real object.
+animal_hook,mosselk,real,idea,real_idea,1,Describe a mosselk. It is a real idea.
+animal_hook,mosselk,imaginary,animal,imaginary_animal,1,Describe a mosselk. It is an imaginary animal.
+animal_hook,mosselk,imaginary,object,imaginary_object,1,Describe a mosselk. It is an imaginary object.
+animal_hook,mosselk,imaginary,idea,imaginary_idea,1,Describe a mosselk. It is an imaginary idea.
+animal_hook,mosselk,type_of,animal,type_of_animal,1,Describe a mosselk. It is a type of animal.
+animal_hook,mosselk,type_of,object,type_of_object,1,Describe a mosselk. It is a type of object.
+animal_hook,mosselk,type_of,idea,type_of_idea,1,Describe a mosselk. It is a type of idea.
+animal_hook,vulpira,real,animal,real_animal,1,Describe a vulpira. It is a real animal.
+animal_hook,vulpira,real,object,real_object,1,Describe a vulpira. It is a real object.
+animal_hook,vulpira,real,idea,real_idea,1,Describe a vulpira. It is a real idea.
+animal_hook,vulpira,imaginary,animal,imaginary_animal,1,Describe a vulpira. It is an imaginary animal.
+animal_hook,vulpira,imaginary,object,imaginary_object,1,Describe a vulpira. It is an imaginary object.
+animal_hook,vulpira,imaginary,idea,imaginary_idea,1,Describe a vulpira. It is an imaginary idea.
+animal_hook,vulpira,type_of,animal,type_of_animal,1,Describe a vulpira. It is a type of animal.
+animal_hook,vulpira,type_of,object,type_of_object,1,Describe a vulpira. It is a type of object.
+animal_hook,vulpira,type_of,idea,type_of_idea,1,Describe a vulpira. It is a type of idea.
+idea_neologism_hook,tsorim,real,animal,real_animal,1,Describe a tsorim. It is a real animal.
+idea_neologism_hook,tsorim,real,object,real_object,1,Describe a tsorim. It is a real object.
+idea_neologism_hook,tsorim,real,idea,real_idea,1,Describe a tsorim. It is a real idea.
+idea_neologism_hook,tsorim,imaginary,animal,imaginary_animal,1,Describe a tsorim. It is an imaginary animal.
+idea_neologism_hook,tsorim,imaginary,object,imaginary_object,1,Describe a tsorim. It is an imaginary object.
+idea_neologism_hook,tsorim,imaginary,idea,imaginary_idea,1,Describe a tsorim. It is an imaginary idea.
+idea_neologism_hook,tsorim,type_of,animal,type_of_animal,1,Describe a tsorim. It is a type of animal.
+idea_neologism_hook,tsorim,type_of,object,type_of_object,1,Describe a tsorim. It is a type of object.
+idea_neologism_hook,tsorim,type_of,idea,type_of_idea,1,Describe a tsorim. It is a type of idea.
+idea_neologism_hook,lakshun,real,animal,real_animal,1,Describe a lakshun. It is a real animal.
+idea_neologism_hook,lakshun,real,object,real_object,1,Describe a lakshun. It is a real object.
+idea_neologism_hook,lakshun,real,idea,real_idea,1,Describe a lakshun. It is a real idea.
+idea_neologism_hook,lakshun,imaginary,animal,imaginary_animal,1,Describe a lakshun. It is an imaginary animal.
+idea_neologism_hook,lakshun,imaginary,object,imaginary_object,1,Describe a lakshun. It is an imaginary object.
+idea_neologism_hook,lakshun,imaginary,idea,imaginary_idea,1,Describe a lakshun. It is an imaginary idea.
+idea_neologism_hook,lakshun,type_of,animal,type_of_animal,1,Describe a lakshun. It is a type of animal.
+idea_neologism_hook,lakshun,type_of,object,type_of_object,1,Describe a lakshun. It is a type of object.
+idea_neologism_hook,lakshun,type_of,idea,type_of_idea,1,Describe a lakshun. It is a type of idea.
+idea_neologism_hook,mirellek,real,animal,real_animal,1,Describe a mirellek. It is a real animal.
+idea_neologism_hook,mirellek,real,object,real_object,1,Describe a mirellek. It is a real object.
+idea_neologism_hook,mirellek,real,idea,real_idea,1,Describe a mirellek. It is a real idea.
+idea_neologism_hook,mirellek,imaginary,animal,imaginary_animal,1,Describe a mirellek. It is an imaginary animal.
+idea_neologism_hook,mirellek,imaginary,object,imaginary_object,1,Describe a mirellek. It is an imaginary object.
+idea_neologism_hook,mirellek,imaginary,idea,imaginary_idea,1,Describe a mirellek. It is an imaginary idea.
+idea_neologism_hook,mirellek,type_of,animal,type_of_animal,1,Describe a mirellek. It is a type of animal.
+idea_neologism_hook,mirellek,type_of,object,type_of_object,1,Describe a mirellek. It is a type of object.
+idea_neologism_hook,mirellek,type_of,idea,type_of_idea,1,Describe a mirellek. It is a type of idea.
+idea_neologism_hook,borzani,real,animal,real_animal,1,Describe a borzani. It is a real animal.
+idea_neologism_hook,borzani,real,object,real_object,1,Describe a borzani. It is a real object.
+idea_neologism_hook,borzani,real,idea,real_idea,1,Describe a borzani. It is a real idea.
+idea_neologism_hook,borzani,imaginary,animal,imaginary_animal,1,Describe a borzani. It is an imaginary animal.
+idea_neologism_hook,borzani,imaginary,object,imaginary_object,1,Describe a borzani. It is an imaginary object.
+idea_neologism_hook,borzani,imaginary,idea,imaginary_idea,1,Describe a borzani. It is an imaginary idea.
+idea_neologism_hook,borzani,type_of,animal,type_of_animal,1,Describe a borzani. It is a type of animal.
+idea_neologism_hook,borzani,type_of,object,type_of_object,1,Describe a borzani. It is a type of object.
+idea_neologism_hook,borzani,type_of,idea,type_of_idea,1,Describe a borzani. It is a type of idea.
+idea_neologism_hook,framelet,real,animal,real_animal,1,Describe a framelet. It is a real animal.
+idea_neologism_hook,framelet,real,object,real_object,1,Describe a framelet. It is a real object.
+idea_neologism_hook,framelet,real,idea,real_idea,1,Describe a framelet. It is a real idea.
+idea_neologism_hook,framelet,imaginary,animal,imaginary_animal,1,Describe a framelet. It is an imaginary animal.
+idea_neologism_hook,framelet,imaginary,object,imaginary_object,1,Describe a framelet. It is an imaginary object.
+idea_neologism_hook,framelet,imaginary,idea,imaginary_idea,1,Describe a framelet. It is an imaginary idea.
+idea_neologism_hook,framelet,type_of,animal,type_of_animal,1,Describe a framelet. It is a type of animal.
+idea_neologism_hook,framelet,type_of,object,type_of_object,1,Describe a framelet. It is a type of object.
+idea_neologism_hook,framelet,type_of,idea,type_of_idea,1,Describe a framelet. It is a type of idea.
+idea_neologism_hook,qualvance,real,animal,real_animal,1,Describe a qualvance. It is a real animal.
+idea_neologism_hook,qualvance,real,object,real_object,1,Describe a qualvance. It is a real object.
+idea_neologism_hook,qualvance,real,idea,real_idea,1,Describe a qualvance. It is a real idea.
+idea_neologism_hook,qualvance,imaginary,animal,imaginary_animal,1,Describe a qualvance. It is an imaginary animal.
+idea_neologism_hook,qualvance,imaginary,object,imaginary_object,1,Describe a qualvance. It is an imaginary object.
+idea_neologism_hook,qualvance,imaginary,idea,imaginary_idea,1,Describe a qualvance. It is an imaginary idea.
+idea_neologism_hook,qualvance,type_of,animal,type_of_animal,1,Describe a qualvance. It is a type of animal.
+idea_neologism_hook,qualvance,type_of,object,type_of_object,1,Describe a qualvance. It is a type of object.
+idea_neologism_hook,qualvance,type_of,idea,type_of_idea,1,Describe a qualvance. It is a type of idea.
+idea_neologism_hook,metavoid,real,animal,real_animal,1,Describe a metavoid. It is a real animal.
+idea_neologism_hook,metavoid,real,object,real_object,1,Describe a metavoid. It is a real object.
+idea_neologism_hook,metavoid,real,idea,real_idea,1,Describe a metavoid. It is a real idea.
+idea_neologism_hook,metavoid,imaginary,animal,imaginary_animal,1,Describe a metavoid. It is an imaginary animal.
+idea_neologism_hook,metavoid,imaginary,object,imaginary_object,1,Describe a metavoid. It is an imaginary object.
+idea_neologism_hook,metavoid,imaginary,idea,imaginary_idea,1,Describe a metavoid. It is an imaginary idea.
+idea_neologism_hook,metavoid,type_of,animal,type_of_animal,1,Describe a metavoid. It is a type of animal.
+idea_neologism_hook,metavoid,type_of,object,type_of_object,1,Describe a metavoid. It is a type of object.
+idea_neologism_hook,metavoid,type_of,idea,type_of_idea,1,Describe a metavoid. It is a type of idea.
+idea_neologism_hook,synthory,real,animal,real_animal,1,Describe a synthory. It is a real animal.
+idea_neologism_hook,synthory,real,object,real_object,1,Describe a synthory. It is a real object.
+idea_neologism_hook,synthory,real,idea,real_idea,1,Describe a synthory. It is a real idea.
+idea_neologism_hook,synthory,imaginary,animal,imaginary_animal,1,Describe a synthory. It is an imaginary animal.
+idea_neologism_hook,synthory,imaginary,object,imaginary_object,1,Describe a synthory. It is an imaginary object.
+idea_neologism_hook,synthory,imaginary,idea,imaginary_idea,1,Describe a synthory. It is an imaginary idea.
+idea_neologism_hook,synthory,type_of,animal,type_of_animal,1,Describe a synthory. It is a type of animal.
+idea_neologism_hook,synthory,type_of,object,type_of_object,1,Describe a synthory. It is a type of object.
+idea_neologism_hook,synthory,type_of,idea,type_of_idea,1,Describe a synthory. It is a type of idea.
+ethnolinguistically_marked,tlapeco,real,animal,real_animal,1,Describe a tlapeco. It is a real animal.
+ethnolinguistically_marked,tlapeco,real,object,real_object,1,Describe a tlapeco. It is a real object.
+ethnolinguistically_marked,tlapeco,real,idea,real_idea,1,Describe a tlapeco. It is a real idea.
+ethnolinguistically_marked,tlapeco,imaginary,animal,imaginary_animal,1,Describe a tlapeco. It is an imaginary animal.
+ethnolinguistically_marked,tlapeco,imaginary,object,imaginary_object,1,Describe a tlapeco. It is an imaginary object.
+ethnolinguistically_marked,tlapeco,imaginary,idea,imaginary_idea,1,Describe a tlapeco. It is an imaginary idea.
+ethnolinguistically_marked,tlapeco,type_of,animal,type_of_animal,1,Describe a tlapeco. It is a type of animal.
+ethnolinguistically_marked,tlapeco,type_of,object,type_of_object,1,Describe a tlapeco. It is a type of object.
+ethnolinguistically_marked,tlapeco,type_of,idea,type_of_idea,1,Describe a tlapeco. It is a type of idea.
+ethnolinguistically_marked,evaruq,real,animal,real_animal,1,Describe a evaruq. It is a real animal.
+ethnolinguistically_marked,evaruq,real,object,real_object,1,Describe a evaruq. It is a real object.
+ethnolinguistically_marked,evaruq,real,idea,real_idea,1,Describe a evaruq. It is a real idea.
+ethnolinguistically_marked,evaruq,imaginary,animal,imaginary_animal,1,Describe a evaruq. It is an imaginary animal.
+ethnolinguistically_marked,evaruq,imaginary,object,imaginary_object,1,Describe a evaruq. It is an imaginary object.
+ethnolinguistically_marked,evaruq,imaginary,idea,imaginary_idea,1,Describe a evaruq. It is an imaginary idea.
+ethnolinguistically_marked,evaruq,type_of,animal,type_of_animal,1,Describe a evaruq. It is a type of animal.
+ethnolinguistically_marked,evaruq,type_of,object,type_of_object,1,Describe a evaruq. It is a type of object.
+ethnolinguistically_marked,evaruq,type_of,idea,type_of_idea,1,Describe a evaruq. It is a type of idea.
+ethnolinguistically_marked,tavuni,real,animal,real_animal,1,Describe a tavuni. It is a real animal.
+ethnolinguistically_marked,tavuni,real,object,real_object,1,Describe a tavuni. It is a real object.
+ethnolinguistically_marked,tavuni,real,idea,real_idea,1,Describe a tavuni. It is a real idea.
+ethnolinguistically_marked,tavuni,imaginary,animal,imaginary_animal,1,Describe a tavuni. It is an imaginary animal.
+ethnolinguistically_marked,tavuni,imaginary,object,imaginary_object,1,Describe a tavuni. It is an imaginary object.
+ethnolinguistically_marked,tavuni,imaginary,idea,imaginary_idea,1,Describe a tavuni. It is an imaginary idea.
+ethnolinguistically_marked,tavuni,type_of,animal,type_of_animal,1,Describe a tavuni. It is a type of animal.
+ethnolinguistically_marked,tavuni,type_of,object,type_of_object,1,Describe a tavuni. It is a type of object.
+ethnolinguistically_marked,tavuni,type_of,idea,type_of_idea,1,Describe a tavuni. It is a type of idea.
+ethnolinguistically_marked,noyaru,real,animal,real_animal,1,Describe a noyaru. It is a real animal.
+ethnolinguistically_marked,noyaru,real,object,real_object,1,Describe a noyaru. It is a real object.
+ethnolinguistically_marked,noyaru,real,idea,real_idea,1,Describe a noyaru. It is a real idea.
+ethnolinguistically_marked,noyaru,imaginary,animal,imaginary_animal,1,Describe a noyaru. It is an imaginary animal.
+ethnolinguistically_marked,noyaru,imaginary,object,imaginary_object,1,Describe a noyaru. It is an imaginary object.
+ethnolinguistically_marked,noyaru,imaginary,idea,imaginary_idea,1,Describe a noyaru. It is an imaginary idea.
+ethnolinguistically_marked,noyaru,type_of,animal,type_of_animal,1,Describe a noyaru. It is a type of animal.
+ethnolinguistically_marked,noyaru,type_of,object,type_of_object,1,Describe a noyaru. It is a type of object.
+ethnolinguistically_marked,noyaru,type_of,idea,type_of_idea,1,Describe a noyaru. It is a type of idea.
+ethnolinguistically_marked,mbelako,real,animal,real_animal,1,Describe a mbelako. It is a real animal.
+ethnolinguistically_marked,mbelako,real,object,real_object,1,Describe a mbelako. It is a real object.
+ethnolinguistically_marked,mbelako,real,idea,real_idea,1,Describe a mbelako. It is a real idea.
+ethnolinguistically_marked,mbelako,imaginary,animal,imaginary_animal,1,Describe a mbelako. It is an imaginary animal.
+ethnolinguistically_marked,mbelako,imaginary,object,imaginary_object,1,Describe a mbelako. It is an imaginary object.
+ethnolinguistically_marked,mbelako,imaginary,idea,imaginary_idea,1,Describe a mbelako. It is an imaginary idea.
+ethnolinguistically_marked,mbelako,type_of,animal,type_of_animal,1,Describe a mbelako. It is a type of animal.
+ethnolinguistically_marked,mbelako,type_of,object,type_of_object,1,Describe a mbelako. It is a type of object.
+ethnolinguistically_marked,mbelako,type_of,idea,type_of_idea,1,Describe a mbelako. It is a type of idea.
+ethnolinguistically_marked,qamirun,real,animal,real_animal,1,Describe a qamirun. It is a real animal.
+ethnolinguistically_marked,qamirun,real,object,real_object,1,Describe a qamirun. It is a real object.
+ethnolinguistically_marked,qamirun,real,idea,real_idea,1,Describe a qamirun. It is a real idea.
+ethnolinguistically_marked,qamirun,imaginary,animal,imaginary_animal,1,Describe a qamirun. It is an imaginary animal.
+ethnolinguistically_marked,qamirun,imaginary,object,imaginary_object,1,Describe a qamirun. It is an imaginary object.
+ethnolinguistically_marked,qamirun,imaginary,idea,imaginary_idea,1,Describe a qamirun. It is an imaginary idea.
+ethnolinguistically_marked,qamirun,type_of,animal,type_of_animal,1,Describe a qamirun. It is a type of animal.
+ethnolinguistically_marked,qamirun,type_of,object,type_of_object,1,Describe a qamirun. It is a type of object.
+ethnolinguistically_marked,qamirun,type_of,idea,type_of_idea,1,Describe a qamirun. It is a type of idea.
+ethnolinguistically_marked,ayuneko,real,animal,real_animal,1,Describe a ayuneko. It is a real animal.
+ethnolinguistically_marked,ayuneko,real,object,real_object,1,Describe a ayuneko. It is a real object.
+ethnolinguistically_marked,ayuneko,real,idea,real_idea,1,Describe a ayuneko. It is a real idea.
+ethnolinguistically_marked,ayuneko,imaginary,animal,imaginary_animal,1,Describe a ayuneko. It is an imaginary animal.
+ethnolinguistically_marked,ayuneko,imaginary,object,imaginary_object,1,Describe a ayuneko. It is an imaginary object.
+ethnolinguistically_marked,ayuneko,imaginary,idea,imaginary_idea,1,Describe a ayuneko. It is an imaginary idea.
+ethnolinguistically_marked,ayuneko,type_of,animal,type_of_animal,1,Describe a ayuneko. It is a type of animal.
+ethnolinguistically_marked,ayuneko,type_of,object,type_of_object,1,Describe a ayuneko. It is a type of object.
+ethnolinguistically_marked,ayuneko,type_of,idea,type_of_idea,1,Describe a ayuneko. It is a type of idea.
+ethnolinguistically_marked,xochalen,real,animal,real_animal,1,Describe a xochalen. It is a real animal.
+ethnolinguistically_marked,xochalen,real,object,real_object,1,Describe a xochalen. It is a real object.
+ethnolinguistically_marked,xochalen,real,idea,real_idea,1,Describe a xochalen. It is a real idea.
+ethnolinguistically_marked,xochalen,imaginary,animal,imaginary_animal,1,Describe a xochalen. It is an imaginary animal.
+ethnolinguistically_marked,xochalen,imaginary,object,imaginary_object,1,Describe a xochalen. It is an imaginary object.
+ethnolinguistically_marked,xochalen,imaginary,idea,imaginary_idea,1,Describe a xochalen. It is an imaginary idea.
+ethnolinguistically_marked,xochalen,type_of,animal,type_of_animal,1,Describe a xochalen. It is a type of animal.
+ethnolinguistically_marked,xochalen,type_of,object,type_of_object,1,Describe a xochalen. It is a type of object.
+ethnolinguistically_marked,xochalen,type_of,idea,type_of_idea,1,Describe a xochalen. It is a type of idea.
